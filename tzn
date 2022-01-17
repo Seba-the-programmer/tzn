@@ -1,0 +1,36 @@
+url:tzndg.edu.pl
+ip:79.96.80.81
+hosting:cludserver071201.home.pl
+server:IdeaWebServer/2.0.3
+wordpress:5.3.6
+users:
+sylwia
+arek
+dominika
+magda
+krzysiek
+rkukla
+admin
+sylwian - ?
+
+login:/wp-login.php
+api:/wp-json/wp/v2/users/
+ftp:yes
+
+ports:
+21/tcp   ftp
+80/tcp   http
+110/tcp  pop3
+143/tcp  imap
+443/tcp  https
+465/tcp  smtps
+587/tcp  submission
+990/tcp  ftps
+993/tcp  imaps
+995/tcp  pop3s
+1433/tcp ms-sql-s
+1443/tcp ies-lm
+3306/tcp mysql
+3690/tcp svn
+5432/tcp postgresql
+

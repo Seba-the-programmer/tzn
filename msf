@@ -1,0 +1,2 @@
+exploit/multi/http/manage_engine_dc_pmp_sqli
+exploit/multi/http/wp_db_backup_rce
